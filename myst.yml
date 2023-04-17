@@ -3,6 +3,12 @@ project:
   title: >-
     Reproducibility Study of Computational Modelling of Glucose Uptake by SGLT1
     and GLUT2 in the Enterocyte
+  description: >-
+    Afshar et al. (2021) generated a computational model of non-isotonic glucose
+    uptake by small intestinal epithelial cells. The model incorporates apical
+    uptake via SGLT1 and GLUT2, basolateral efflux into the blood via GLUT2 and
+    cellular volume changes in response to non-isotonic conditions.
+  thumbnail: thumbnail.png
   authors:
     - name: Nima Afshar
       orcid: 0000-0002-6671-6920
